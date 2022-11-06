@@ -1,0 +1,12 @@
+About Project=>
+Tracking selected objects using opencv module.
+
+Instructions=>
+Install the necessary modules(opencv)
+(pip install opencv-contrib-python)
+
+Running the ObjectTracking.py file in terminal or command prompt using "python ObjectTracking.py" command(make sure your terminal is opened in the folder containing .py file)
+Webcam gets opened
+Press Esc and select object to be tracked and hit space or enter key
+Program will start tracking the selected object
+Press Esc again to exit the tracking process
